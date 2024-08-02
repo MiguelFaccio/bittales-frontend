@@ -4,7 +4,7 @@
 
 ### Requisitos Funcionais
 
-    1- **Jogos Seguros e Apropriados:**
+1- **Jogos Seguros e Apropriados:**
  
     - Todos os jogos devem ser revisados e classificados de acordo com a faixa etária apropriada.
  
@@ -56,3 +56,39 @@
  
     - O sistema deve ter uptime de 99,9%.
     - Backups regulares de dados devem ser realizados para evitar perda de informações.
+
+
+## Tarefas
+
+- [ ] Criar telas para administrar Endpoint:
+        [ ] Criar Jogos;
+        [ ] Criar Usuários;
+        [ ] Visualizar Jogos;
+        [ ] Visualizar Usuários;
+        [ ] Atualizar Jogos;
+        [ ] Atualizar Usuários;
+        [ ] Remover Jogos;
+        [ ] Remover Usuários.
+
+- [ ] Criar tela de login.
+
+- [ ] Criar tela de cadastro.
+
+- [ ] Criar tela inicial.
+
+- [ ] Criar tela do menu de jogos.
+
+- [ ] Criar tela de perfil.
+
+- [ ] Criar tela de ranking.
+
+- [ ] Criar tela de conquistas.
+
+- [ ] Criar jogos:
+    [ ] Medidor do amor;
+    [ ] Xadrez;
+    [ ] Organizador;
+    [ ] 2048;
+    [ ] Jogo da cobrinha;
+    [ ] Jogo da memória;
+
